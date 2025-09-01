@@ -1,0 +1,4 @@
+
+outfile="tree-$(date +%F_%H-%M-%S).log"
+tree -a > "$outfile"
+echo "Saved directory tree to $outfile"

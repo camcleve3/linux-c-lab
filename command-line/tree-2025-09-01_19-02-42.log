@@ -1,0 +1,102 @@
+.
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-checkout
+│   │   ├── post-commit
+│   │   ├── post-merge
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── lfs
+│   │   ├── cache
+│   │   │   └── locks
+│   │   │       └── refs
+│   │   │           └── heads
+│   │   │               └── main
+│   │   │                   └── verifiable
+│   │   └── tmp
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 00
+│   │   │   └── 750edc07d6415dcc07ae0351e9397b0222b7ba
+│   │   ├── 03
+│   │   │   └── 6430e62abe3ced73146122974289ad14f3290a
+│   │   ├── 1f
+│   │   │   └── ab44b995d12ccd3b580bbde9453287c3ce79b6
+│   │   ├── 34
+│   │   │   └── 5e6aef713208c8d50cdea23b85e6ad831f0449
+│   │   ├── 42
+│   │   │   └── fb6de2f422d04e0b4f40ea7fe99b9f6a8c991e
+│   │   ├── 4e
+│   │   │   └── 1cc4a5873da8d135a70e9ad93c9bc712065f9a
+│   │   ├── 70
+│   │   │   └── 60c0e107b2dc3ef19ce75ccc43c323e0c98f32
+│   │   ├── 96
+│   │   │   └── 66ea1b67939fd71c36637465c66e119e676722
+│   │   ├── a1
+│   │   │   └── 96ea58eb13a911f2296610823bcf422db99417
+│   │   ├── cd
+│   │   │   └── f4e0b1f3839f560ba0a8e14182d9adec2effcf
+│   │   ├── d5
+│   │   │   └── 79eba0731a2259fcec55c6068d3799f07482c5
+│   │   ├── f2
+│   │   │   └── 8de0d2a5f8ee2938e4be3baef8504e04624cfa
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-3bb235f10afb6bc4aae31c59202b5890a556486d.idx
+│   │       ├── pack-3bb235f10afb6bc4aae31c59202b5890a556486d.pack
+│   │       └── pack-3bb235f10afb6bc4aae31c59202b5890a556486d.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── .gitignore
+├── README.md
+├── c-programs
+├── command-line
+│   ├── advanced-log.txt
+│   ├── command-line-easy
+│   │   └── test.txt
+│   ├── easy-log.txt
+│   ├── files.txt
+│   ├── hello-copy.txt
+│   ├── intermediate-log.txt
+│   ├── secret.txt
+│   └── tree-2025-09-01_18-58-22.log
+├── shell-scripts
+└── tree-2025-09-01_19-02-42.log
+
+40 directories, 60 files

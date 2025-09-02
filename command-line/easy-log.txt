@@ -1,0 +1,23 @@
+@camcleve3 ➜ /workspaces/linux-c-lab (main) $ pwd
+/workspaces/linux-c-lab
+@camcleve3 ➜ /workspaces/linux-c-lab (main) $ ls
+README.md  c-programs  command-line  shell-scripts
+@camcleve3 ➜ /workspaces/linux-c-lab (main) $ cd command-line
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line (main) $ mkdir command-line-easy && cd command-line easy
+bash: cd: too many arguments
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line (main) $ mkdir command-line-easy && cd command-line-easy
+mkdir: cannot create directory ‘command-line-easy’: File exists
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line (main) $ cd command-line-easy
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ touch hello.txt
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ nano hello.txt
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ cp hello.txt hello-copy.txt
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ mv hello-copy.txt ../.
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ rm hello.txt
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ cat ../hello-copy.txt.
+cat: ../hello-copy.txt.: No such file or directory
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ cat ../hello-copy.txt
+Hello, Linux!
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ man ls
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ 
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ echo "Test" > test.txt
+@camcleve3 ➜ /workspaces/linux-c-lab/command-line/command-line-easy (main) $ 

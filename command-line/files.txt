@@ -1,0 +1,7 @@
+total 16
+-rw-rw-rw-  1 codespace root        13 Aug 29 15:16 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Aug 29 15:19 c-programs
+drwxrwxrwx+ 3 codespace codespace 4096 Sep  1 17:34 command-line
+-rw-rw-rw-  1 codespace codespace    0 Sep  1 17:40 files.txt
+-rw-------  1 codespace codespace    0 Sep  1 17:06 secret.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Aug 29 15:18 shell-scripts
